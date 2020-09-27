@@ -14,7 +14,7 @@ This instalment references the following sample solutions:
   * [`pbs92-ChallengeSolution-Allison/index.html`](https://rawcdn.githack.com/bartificer/programming-by-stealth/5ad7214faac1abc4701d1c65b49685357164042a/instalmentResources/pbs96/pbs92-ChallengeSolution-Allison/index.html)
   * [`pbs92-ChallengeSolution-Bart/index.html`](https://rawcdn.githack.com/bartificer/programming-by-stealth/66e9f41e421c7b584ebdd262ee3f40a6588dde24/instalmentResources/pbs96/pbs92-ChallengeSolution-Bart/index.html)
 
-  ## Matching Podcast Episode
+## Matching Podcast Episode
 
 Listen along to this instalment on [episode 638 of the Chit Chat Across the Pond Podcast](https://www.podfeet.com/blog/2020/05/ccatp-638/).
 

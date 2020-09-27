@@ -18,7 +18,7 @@ You can use the tool to experiment with the different CSS properties we worked w
 
 Once you have the layout created following the instructions – try expanding the size of the main content region by setting the height of box 4 to `300px`. No problems there, the footer moves down, and all is well. Now, let’s see what happens when we make the sidebar longer than the content by setting the height of box 5 to `500px`. Uh oh – it breaks our layout! Because box 5 is positioned absolute, it has been lifted out of the normal flow of the document. It is not actually contained within the green box anymore – it is hovering in front of it. So as it expands, it just continues on, obscuring part of the footer. This tells us that our layout has a limitation – it only works on sites where the content is longer than the sidebar.
 
-Also – it should be noted that this little web app is entirely written in HTML, CSS, and JavaScript. So, by the time we finish this series, you should have the skills needed to build something like this yourself. If you’re curious, you can get a sneak peak of what’s to come and see what JavaScript looks like.
+Also – it should be noted that this little web app is entirely written in HTML, CSS, and JavaScript. So, by the time we finish this series, you should have the skills needed to build something like this yourself. If you’re curious, you can get a sneak peek of what’s to come and see what JavaScript looks like.
 
 ## The CSS `display` Property
 

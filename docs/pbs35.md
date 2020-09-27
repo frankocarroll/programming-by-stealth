@@ -312,7 +312,7 @@ Having added the test suite, and fixed the bugs, I decided to publish a new rele
 
 Before we move away from JavaScript I briefly want to mention another useful feature in the QUnit testing framework. You can write tests for code that you’re not working on yet by using the function `todo` instead of `test`. It really is as simple as replacing `QUnit.test` with `QUnit.todo`. This will keep the test disabled until you’re ready for it. When you want to enable the test, just change `QUnit.todo` back to `QUnit.test`.
 
-Tests marked as `todo` are not run, but they also don’t vanish from the test runner’s output, as shown by the following screenshot (a sneak peak at this instalment’s challenge starting point):
+Tests marked as `todo` are not run, but they also don’t vanish from the test runner’s output, as shown by the following screenshot (a sneak peek at this instalment’s challenge starting point):
 
 [![](../assets/pbs35/Screen-Shot-2017-05-18-at-01.25.04-234x300.png)
 Click to See Full Size](https://www.bartbusschots.ie/s/wp-content/uploads/2017/05/Screen-Shot-2017-05-18-at-01.25.04.png)
